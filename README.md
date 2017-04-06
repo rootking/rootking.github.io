@@ -1,4 +1,4 @@
-```
+```javascript
 while interested {
 learn();
 code();
